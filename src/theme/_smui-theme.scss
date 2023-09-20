@@ -5,7 +5,7 @@
 // Svelte Colors!
 @use "@material/theme/index" as theme with (
   $primary: #ff3e00,
-  $secondary: color.scale(#676778, $whiteness: -10%),
+  $secondary: color.scale(rgb(45, 45, 45), $whiteness: -10%),
   $surface: #fff,
   $background: #fff,
   $error: color-palette.$red-900

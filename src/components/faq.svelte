@@ -31,14 +31,14 @@ export let faq: {
 
 .question-container {
     padding: 24px;
-    background-color: rgb(45, 45, 45);
+    /* background-color: rgb(45, 45, 45); */
     margin-bottom: 5px;
     color: white;
 }
 
 .answer-container {
     padding: 24px;
-    background-color: rgb(45, 45, 45);
+    /* background-color: rgb(45, 45, 45); */
     margin-bottom: 5px;
     color: white;
 
